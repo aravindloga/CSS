@@ -4,8 +4,8 @@
 .olli ~p{
     color: red;
 } 
-/* "~" used for same level of element
+/* "~" used for same level of element and "," used for multiple selcetors
  */
- p{
+p{
     background-color: antiquewhite;
- }
+}
