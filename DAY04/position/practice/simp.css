@@ -1,0 +1,10 @@
+section{
+    /* x axis */
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    column-gap: 12px; 
+    /* because of using in x-axis use justify-content */
+    justify-content: center;
+    align-items: center;
+}
