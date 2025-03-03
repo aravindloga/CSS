@@ -5,15 +5,10 @@
     background-color: skyblue;
 }
 
-section {
-    border: 1px  solid;
-    
-    
-    
-}
+
 li{
     height: 100px;
-    width: 100px;
+    width: 200px;
     border: 1px solid;
     /* display: inline-block; */
 }
@@ -51,6 +46,6 @@ ol{
     row-gap: 120px;
     column-gap: 60px;
     justify-content: space-evenly;
-
+    
     
 }
